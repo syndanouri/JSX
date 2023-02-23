@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  font-family: cursive;
+
+}
+.content{
+  display: flex;
+  justify-content: space-between;
+ 
+}
+.navelm{
+  display: flex;
+  justify-content: space-between;
+  
+}
+.fname{
+  margin-left: 60px;
+  margin-top: 10%;
+  width: 30%;
+}
+img{
+  margin-right: 150px;
+  margin-top: 3%;
+  width: 260px;
+  height: 280px;
+ border-radius:56% 44% 60% 40% / 41% 25% 75% 59% 
+}
